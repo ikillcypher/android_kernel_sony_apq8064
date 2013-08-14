@@ -18,7 +18,7 @@ CONFIG_RT_GROUP_SCHED=y
 CONFIG_NAMESPACES=y
 
 
-#Ubuntu-Touch Support
+# Ubuntu-Touch Support
 
 CONFIG_UTS_NS=y
 CONFIG_IPC_NS=y
